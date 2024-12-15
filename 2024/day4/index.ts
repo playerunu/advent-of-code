@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-namespace day3 {
+namespace day4 {
   
     const xmas = 'XMAS';
     const directions = [
